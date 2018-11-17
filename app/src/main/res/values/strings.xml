@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">espresso</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="country_korea">korea</string>
+    <string name="country_japan">japan</string>
+    <string name="country_china">china</string>
+    <string name="locale_korea">ko_kr</string>
+    <string name="locale_japan">ja_jp</string>
+    <string name="locale_china">zh_cn</string>
+    <string name="unknown_country">Unknown country %1$s</string>
+    <string name="no_country_extra">No country string</string>
+
+</resources>
